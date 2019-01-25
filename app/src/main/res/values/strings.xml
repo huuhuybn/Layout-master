@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book Manager</string>
+
+
+    <!--// User -->
+    <string name="title_activity_user">Người dùng</string>
+
+
+    <!--// Bill Screen-->
+    <string name="bill_edt_bill_id">Mã Hóa Đơn</string>
+    <string name="title_activity_bill">Hóa đơn</string>
+    <string name="bill_btn_click_date">Chọn thời gian.</string>
+    <string name="notify_wrong_text">Vui lòng nhập mã hóa đơn không quá 7 ký tự!!!</string>
+    <string name="notify_choose_input">Xin vui lòng chọn thời gian !</string>
+    <string name="notify_input_succesful">Thêm hóa đơn thành công!</string>
+    <string name="notify_error">Có lỗi xảy ra, vui lòng liên hệ Admin.!!</string>
+
+
+</resources>
